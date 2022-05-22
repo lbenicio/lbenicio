@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lbenicio
+- 👀 I’m interested in development, from kernel to web
+- 🌱 I’m currently learning everything that comes handy
+- 💞️ I’m looking to collaborate on ... (shot out a message)
+- 📫 How to reach me at hello@lbenicio.dev
